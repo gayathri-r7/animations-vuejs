@@ -1,4 +1,4 @@
-# animations-vuejs
+# VueJs Animations
 
 ## Project setup
 ```
